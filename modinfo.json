@@ -1,0 +1,11 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "EasierProficiencies",
+        "name": "Easier Proficiencies",
+        "authors": [ "Leon713" ],
+        "description": "Reduces the required time to learn a proficiencies to a 1/4 of the original requirement.",
+        "category": "rebalance",
+        "dependencies": [ "dda" ]
+    }
+]

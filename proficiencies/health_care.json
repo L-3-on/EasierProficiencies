@@ -1,0 +1,20 @@
+[
+  {
+    "type": "proficiency",
+    "id": "prof_wound_care",
+    "copy-from": "prof_wound_care",
+    "time_to_learn": "30 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wound_care_expert",
+    "copy-from": "prof_wound_care_expert",
+    "time_to_learn": "210 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_burn_care",
+    "copy-from": "prof_burn_care",
+    "time_to_learn": "3 h"
+  }
+]

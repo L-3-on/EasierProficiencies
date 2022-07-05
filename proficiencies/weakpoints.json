@@ -1,0 +1,62 @@
+[
+  {
+    "type": "proficiency",
+    "id": "prof_debug_weakpoint",
+    "copy-from": "prof_debug_weakpoint",
+    "time_to_learn": "10 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_debug_weakpoint_expert",
+    "copy-from": "prof_debug_weakpoint_expert",
+    "time_to_learn": "3 h"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_zombie",
+    "copy-from": "prof_wp_zombie",
+    "time_to_learn": "90 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_syn_armored",
+    "copy-from": "prof_wp_syn_armored",
+    "time_to_learn": "90 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_nat_armored",
+    "copy-from": "prof_wp_nat_armored",
+    "time_to_learn": "2 h"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_basic_bug",
+    "copy-from": "prof_wp_basic_bug",
+    "time_to_learn": "2 h"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_flying",
+    "copy-from": "prof_wp_flying",
+    "time_to_learn": "90 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_skeleton",
+    "copy-from": "prof_wp_skeleton",
+    "time_to_learn": "90 m"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_child",
+    "copy-from": "prof_wp_child",
+    "time_to_learn": "1 h"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_wp_hulk",
+    "copy-from": "prof_wp_hulk",
+    "time_to_learn": "90 m"
+  }
+]

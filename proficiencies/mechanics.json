@@ -1,0 +1,14 @@
+[
+  {
+    "type": "proficiency",
+    "id": "prof_basic_engines",
+    "copy-from": "prof_basic_engines",
+    "time_to_learn": "2 h"
+  },
+  {
+    "type": "proficiency",
+    "id": "prof_pneumatics",
+    "copy-from": "prof_pneumatics",
+    "time_to_learn": "2 h"
+  }
+]
